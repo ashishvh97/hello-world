@@ -1,3 +1,2 @@
 # hello-world
-Demo repository
-The name's Ash.
+My name is Ashish and I'm an MSc student at Imperial College London, studying Advanced Materials Science and Engineering. 
